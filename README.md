@@ -1,8 +1,8 @@
 # CS510 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Alexis Ford, Nengyin Zhu_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-01-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-01-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen)
 
 **Due date:** 2016/09/06
 
@@ -18,7 +18,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**Good night**
 
 ## Honor Pledge
 
@@ -29,4 +29,5 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Alexis Ford**
+**Nengyin Zhu**
