@@ -1,6 +1,6 @@
 # CS510 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _\Alexis Ford, Nengyin Zhu(Helen)\>_
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-01-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-01-YOURNAME)
 
