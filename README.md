@@ -3,7 +3,7 @@
 <<<<<<< HEAD
 **Author(s):** _Alexis Ford, Nengyin Zhu_
 =======
-**Author(s):** _\Alexis Ford, Nengyin Zhu(Helen)\>_
+**Author(s):** _Alexis Ford, Nengyin Zhu(Helen)_
 >>>>>>> c4003045cc08b311a92e328395601b0dc7e631a0
 
 [![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen)
@@ -22,7 +22,7 @@ Complete the following exercises, saving your solutions in the indicated files. 
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**Good night**
+**It would have been nice to have a basic introduction on vim before strating the assignment.**
 
 ## Honor Pledge
 
