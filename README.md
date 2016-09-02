@@ -6,7 +6,7 @@
 **Author(s):** _Alexis Ford, Nengyin Zhu(Helen)_
 >>>>>>> c4003045cc08b311a92e328395601b0dc7e631a0
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-01-nv-shen)
 
 **Due date:** 2016/09/06
 
