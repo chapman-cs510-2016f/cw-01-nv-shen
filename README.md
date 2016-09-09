@@ -20,6 +20,9 @@ Analyze in this section what you found useful about this assignment in your own 
 
 **It would have been nice to have a basic introduction on vim before strating the assignment.**
 
+_INSTRUCTOR COMMENTS:_
+_Good idea. Slides are now up for vim, which I recommend reading carefully. Also, be sure to clean your GitHub repository of things you do not need. The file 'a' for example can be removed, since it does not contribute to your code base._
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
